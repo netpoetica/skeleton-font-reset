@@ -1,0 +1,5 @@
+html, body, h1, h2, h3, h4, h5, h6, 
+.button, button, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"],
+input[type="password"], input[type="email"], textarea, select {
+    font-family: 'My Favourite Font', 'My Next Favourite Font', Arial, sans-serif;
+}
